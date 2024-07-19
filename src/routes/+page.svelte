@@ -1,14 +1,16 @@
-<section class="bg-orange-300">
-	<h1 class="text-5xl font-semibold text-center">Software Developer</h1>
+<section id="home">
+	<!-- <h1 class="text-5xl font-semibold text-center">Software Developer</h1> -->
 
 	<div
-		class="w-full h-screen flex flex-col text-center items-center justify-center my-10 py-16 sm:py-32 md:flex-row md:space-x-4 md:text-left md:py-28"
+		class="h-screen w-full flex flex-col text-center items-center justify-center my-10 py-16 sm:py-32 md:flex-row md:space-x-4 md:text-left md:py-28"
 	>
 		<div class="md:w-1/2 md:mt-2">
 			<img
-				class="rounded-full width={300} height={300}"
+				class="rounded-full"
 				src="../assets/hero.svg"
 				alt="cartoon profile"
+				width={400}
+				height={400}
 			/>
 		</div>
 	</div>
@@ -29,10 +31,10 @@
 		<iconify-icon icon="mdi:react"></iconify-icon>
 		<iconify-icon icon="mdi:react"></iconify-icon>
 	</div>
-
-	<style lang="postcss">
-		:global(html) {
-			background-color: theme(colors.orange.300);
-		}
-	</style>
 </section>
+
+<style lang="postcss">
+	:global(html) {
+		background-color: theme(colors.orange.300);
+	}
+</style>
