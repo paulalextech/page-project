@@ -21,11 +21,12 @@
 
 	<div class="md:mt-2 md:w-3/5 p-3">
 		<h1 class="font-bold sm:text-6xl text-4xl mt-6 md:text-6xl md:mt-0">
-			Welcome to my portfolio built using Svelte and SvelteKit.
+			Welcome to my portfolio built using <span class="text-orange-600">Svelte</span> and
+			<span class="text-orange-600">SvelteKit.</span>
 		</h1>
-		<p class="text-xl mt-4 mb-2 md:text-3xl">
+		<!-- <p class="text-xl mt-4 mb-2 md:text-3xl">
 			I'm a Full-Stack Software Developer. I love building things with tech and retro video games!
-		</p>
+		</p> -->
 	</div>
 </section>
 
@@ -33,6 +34,6 @@
 
 <style lang="postcss">
 	:global(html) {
-		background-color: theme(colors.orange.300);
+		background-color: theme(colors.slate.500);
 	}
 </style>
