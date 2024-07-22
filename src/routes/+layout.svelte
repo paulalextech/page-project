@@ -1,9 +1,12 @@
 <script>
 	import '../app.css';
 	import 'iconify-icon';
+	import Navbar from '../components/Navbar.svelte';
+	import Header from '../components/Header.svelte';
 </script>
 
-<!-- Navbar -->
+<Navbar />
+<Header />
 
 <section
 	id="home"
@@ -34,6 +37,6 @@
 
 <style lang="postcss">
 	:global(html) {
-		background-color: theme(colors.slate.500);
+		background-color: theme(colors.gray.700);
 	}
 </style>
