@@ -24,11 +24,13 @@
 
 	<div class="md:mt-2 md:w-3/5 p-3">
 		<h1 class="font-bold sm:text-6xl text-4xl mt-6 md:text-6xl md:mt-0">
-			Welcome to my portfolio built using <a href="https://svelte.dev/"
-				><span class="text-orange-600">Svelte</span></a
+			Welcome to my portfolio built using <a href="https://svelte.dev/" target="_blank"
+				><span class="text-orange-600 hover:text-white">Svelte</span></a
 			>
 			and
-			<span class="text-orange-600">SvelteKit.</span>
+			<a href="https://kit.svelte.dev/" target="_blank"
+				><span class="text-orange-600 hover:text-white">SvelteKit.</span></a
+			>
 		</h1>
 		<!-- <p class="text-xl mt-4 mb-2 md:text-3xl">
 			I'm a Full-Stack Software Developer. I love building things with tech and retro video games!
