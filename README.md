@@ -1,7 +1,8 @@
 # Svelte Portfolio Page
 
+<img width="1470" alt="readme" src="https://github.com/user-attachments/assets/e4773e01-4ad1-427d-9960-e3a36006b849">
 
-![Uploading readme.png…]()
+
 
 
 
