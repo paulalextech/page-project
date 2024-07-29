@@ -225,6 +225,9 @@
 			</svg>
 		</div>
 	</div>
+	<div>
+		<p>Linkedin and GitHub</p>
+	</div>
 </section>
 
 <slot />
