@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { Github } from 'lucide-svelte';
+	import { Linkedin } from 'lucide-svelte';
 	import '../app.css';
 	import 'iconify-icon';
 </script>
@@ -224,9 +226,17 @@
 				/>
 			</svg>
 		</div>
-	</div>
-	<div>
-		<p>Linkedin and GitHub</p>
+
+		<div class="flex flex-row gap-5">
+			<div class="text-3xl hover:text-orange-500">
+				<!-- <p>Linkedin</p> -->
+				<Linkedin />
+			</div>
+			<div class="text-3xl hover:text-orange-500">
+				<!-- <p>GitHub</p> -->
+				<Github />
+			</div>
+		</div>
 	</div>
 </section>
 
