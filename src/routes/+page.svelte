@@ -230,11 +230,11 @@
 		<div class="flex flex-row gap-5">
 			<div class="text-3xl hover:text-orange-500">
 				<!-- <p>Linkedin</p> -->
-				<Linkedin />
+				<a href="https://www.linkedin.com/in/paul-alex-611a3740/" target="_blank"><Linkedin /></a>
 			</div>
 			<div class="text-3xl hover:text-orange-500">
 				<!-- <p>GitHub</p> -->
-				<Github />
+				<a href="https://github.com/paulalextech" target="_blank"><Github /></a>
 			</div>
 		</div>
 	</div>
