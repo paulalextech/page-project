@@ -238,6 +238,12 @@
 			</div>
 		</div>
 	</div>
+	<div>
+		<p>
+			When not working on client projects, you will find me consultanting with other companies on
+			how to enhance their IT operation ability.
+		</p>
+	</div>
 </section>
 
 <slot />
