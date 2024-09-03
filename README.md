@@ -1,6 +1,10 @@
-# create-svelte
+# Svelte Portfolio Page
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+<img width="1470" alt="readme" src="https://github.com/user-attachments/assets/e4773e01-4ad1-427d-9960-e3a36006b849">
+
+
+
+
 
 ## Creating a project
 
@@ -36,3 +40,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
