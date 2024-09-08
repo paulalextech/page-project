@@ -237,12 +237,12 @@
 				<a href="https://github.com/paulalextech" target="_blank"><Github /></a>
 			</div>
 		</div>
-	</div>
-	<div>
-		<p>
-			When not working on client projects, you will find me consulting with other companies on how
-			to enhance their IT operation ability.
-		</p>
+		<div>
+			<p class="text-xl">
+				When not working on client projects, you will find me consulting with other companies on how
+				to enhance their IT operation ability.
+			</p>
+		</div>
 	</div>
 </section>
 
