@@ -240,7 +240,8 @@
 		<div>
 			<p class="text-xl">
 				When not working on client projects, you will find me consulting with other companies on how
-				to enhance their IT operation ability.
+				to enhance their IT operation ability. If you require IT support please contact me following
+				this <link />
 			</p>
 		</div>
 	</div>
