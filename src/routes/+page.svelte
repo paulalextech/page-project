@@ -247,6 +247,7 @@
 			</p>
 		</div>
 	</div>
+	<p>Copyright &copy; Paul Alex 2024</p>
 </section>
 
 <slot />
